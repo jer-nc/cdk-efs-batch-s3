@@ -47,7 +47,7 @@ The container image comes from Docker Hub. It's a public image with a small bash
 ![cloudwatch-logs](/assets/cloudwatch-aws-batch.png)
 
 ## CloudWatch Job Array 0 & 1
-| Index 0                               | Index 2                               |
+| Index 0                               | Index 1                               |
 | ------------------------------------- | ------------------------------------- |
 | ![cloudwatch-job-1-2](/assets/j0.png) | ![cloudwatch-job-1-2](/assets/j1.png) |
 
